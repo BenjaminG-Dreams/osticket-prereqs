@@ -5,6 +5,12 @@
 <h1>osTicket - Prerequisites and Installation</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
+<h2>Pre-requisites</h2>
+
+- [Setup a Subscription and a Resource in Azure for Beginner Labs](https://github.com/BenjaminG-Dreams/setup-azure-sub-and-resource)
+
+- [Create Virtual Machines Within Azure](https://github.com/BenjaminG-Dreams/creating-azure-vm)
+
 <h2>Environments and Tech Used</h2>
 
 - Microsoft Azure
